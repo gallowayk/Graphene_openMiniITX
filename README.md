@@ -1,7 +1,7 @@
 # Graphene - BETA
-An open [source] mini-ITX case
+An open-air mini-ITX case
 
-This repository is where I will house the open-source open-air mini-ITX case I've designed. There are some kinks to work out, but it should be most of the way there. 
+This repository is where I will house the open-air mini-ITX case I've designed. There are some kinks to work out, but it should be most of the way there. 
 
 Details:
 - Fully 3D printable, only necessitating M3 screws and M3 heatset inserts
@@ -16,3 +16,7 @@ Plans for future designs:
 - Attempt to further optimize space usage
 - Redesign using parameters so the design is accurately scalable
 
+
+This design and derivatives cannot, and should not, be sold, used for commercial purposes, etc. Individual use is absolutely fine and remixing is welcome.
+.stls will be available right off the bat
+.step files will be added once everything has been confirmed
