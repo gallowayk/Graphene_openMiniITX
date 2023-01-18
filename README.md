@@ -14,4 +14,5 @@ Plans for future designs:
 - Design everything to be support free
 - Design mATX version
 - Attempt to further optimize space usage
+- Redesign using parameters so the design is accurately scalable
 
