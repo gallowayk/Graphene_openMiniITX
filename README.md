@@ -1,5 +1,8 @@
 # Graphene Open Air Mini-ITX Case - BETA
 
+![image](https://github.com/gallowayk/Graphene_openMiniITX/blob/main/Images/main.png)
+
+
 This repository contains files for an open-air mini-ITX case I've designed. There are some kinks to work out, but it should be most of the way there. 
 
 Details:
@@ -9,6 +12,7 @@ Details:
 - Supports Mini-ITX motherboards (upright or 90 degrees CCW rotation)
 
 Plans for future versions/variants:
+- Official assembly guide
 - mATX
 - Fully support free
 - Optimize space usage
@@ -35,7 +39,7 @@ Suggested Print Settings:
   - All other parts
     - Print with flattest side on bed
 
-BOM (subject to change)
+BOM (preliminary; subject to change)
 - 6x M3x5mm(OD)x10mm(L) heatset inserts
 - 12x M3x5mm(OD)x5mm(L) heatset inserts
 - 18x M3x10mm socket head screws
