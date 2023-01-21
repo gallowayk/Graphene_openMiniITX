@@ -9,7 +9,7 @@ Details:
 - Fully 3D printable, only necessitating M3 screws and M3 heatset inserts
 - SFX or SFX-L compatbility
 - 240mm radiator support (open loop or AIO)
-- Supports Mini-ITX motherboards (upright or 90 degrees CCW rotation)
+- Supports Mini-ITX motherboards (upright or rotated 90 degrees CCW)
 
 Plans for future versions/variants:
 - Official assembly guide
