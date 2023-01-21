@@ -47,6 +47,7 @@ BOM (preliminary; subject to change)
 - 2x M3x5mm countersunk screw
 - 4x 12mm(OD)x3mm(ID)x3mm(H) Magnets 
 - 1x 16mm(OD) Momentary Switch (NO; normally open) 
+- 1x Corsair PCIe 3.0 or 4.0 Riser Cable
 
 
 Note:
