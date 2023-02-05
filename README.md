@@ -1,14 +1,18 @@
 # Graphene Open Air Mini-ITX Case - BETA
 
+![image](https://github.com/gallowayk/Graphene_openMiniITX/blob/main/Images/main.png)
+
+
 This repository contains files for an open-air mini-ITX case I've designed. There are some kinks to work out, but it should be most of the way there. 
 
 Details:
 - Fully 3D printable, only necessitating M3 screws and M3 heatset inserts
 - SFX or SFX-L compatbility
 - 240mm radiator support (open loop or AIO)
-- Supports Mini-ITX motherboards (upright or 90 degrees CCW rotation)
+- Supports Mini-ITX motherboards (upright or rotated 90 degrees CCW)
 
 Plans for future versions/variants:
+- Official assembly guide
 - mATX
 - Fully support free
 - Optimize space usage
@@ -35,7 +39,7 @@ Suggested Print Settings:
   - All other parts
     - Print with flattest side on bed
 
-BOM (subject to change)
+BOM (preliminary; subject to change)
 - 6x M3x5mm(OD)x10mm(L) heatset inserts
 - 12x M3x5mm(OD)x5mm(L) heatset inserts
 - 18x M3x10mm socket head screws
@@ -43,6 +47,7 @@ BOM (subject to change)
 - 2x M3x5mm countersunk screw
 - 4x 12mm(OD)x3mm(ID)x3mm(H) Magnets 
 - 1x 16mm(OD) Momentary Switch (NO; normally open) 
+- 1x Corsair PCIe 3.0 or 4.0 Riser Cable
 
 
 Note:
